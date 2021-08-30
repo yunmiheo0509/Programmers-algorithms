@@ -26,7 +26,7 @@ class Solution {
                         break;
                     } else {
                         answer++;
-                        que.add(0);
+                        que.add(0);//이걸추가하지 않으면 트럭은 전진을 안함...이걸 빼먹어서 틀림
                         System.out.println("3: "+i+"j: "+j+"que: "+que);
                     }
                 } else if (que.size() == bridge_length) {
