@@ -8,7 +8,7 @@ Programmers algorithms
 - ~~[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)~~ (난이도: ⭐⭐ 소요시간: 50분)
 - ~~[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)~~ (난이도: ⭐⭐ 실패, 풀이봄)
 - ~~[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)~~ (⭐⭐ 실패, 풀이봄)
-- [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) (⭐⭐)
+- ~~[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)~~ (⭐⭐ 소요시간: 30분)
 
 ### 2. Heap
 - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) (⭐⭐)
