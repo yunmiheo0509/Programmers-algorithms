@@ -16,7 +16,7 @@ Programmers algorithms
 - ~~[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)~~ (⭐⭐⭐ 소요시간: 1시간)
 
 ### 3. Hash
-- [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) (⭐⭐)
+- ~~[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)~~ (⭐⭐ 실패, 시간초과 ->풀이봄)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) (⭐⭐)
 - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) (⭐⭐⭐)
 
