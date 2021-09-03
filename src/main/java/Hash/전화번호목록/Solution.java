@@ -5,7 +5,7 @@ import java.util.*;
 //내 풀이는 시간초과나서 오류남 해시맵을 써야 시간초과가 안남 훨씬 빠름
 class Solution {//이것도 정해
     public boolean solution(String[] phoneBook) {
-        Arrays.sort(phoneBook);// 이거하면 분명 같은애들끼리 붙어있게된다. 그래서 가능
+        Arrays.sort(phoneBook);// 이거하면 앞에 숫자가 분명 같은 애들끼리 붙어있게된다. 그래서 가능
         for (int i = 0; i < phoneBook.length - 1; i++){
             if (phoneBook[i + 1].startsWith(phoneBook[i])){
                 return false;
