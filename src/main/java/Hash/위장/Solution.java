@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-//3:35~
+//수학적으로 계산을 해야한다.
+//해시맵을 이용하여 각 종류별 옷의 갯수를 카운트
+
 class Solution {
     public int solution(String[][] clothes) {
         Map<String, Integer> map = new HashMap<String, Integer>();
