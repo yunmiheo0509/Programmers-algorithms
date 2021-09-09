@@ -18,7 +18,7 @@ Programmers algorithms
 ### 3. Hash
 - ~~[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)~~ (⭐⭐ 실패, 효율성테스트실패 ->풀이봄)
 - ~~[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)~~ (⭐⭐ 실패, 풀이봄)
-- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) (⭐⭐⭐)
+- ~~[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)~~ (⭐⭐⭐ 1시간)
 
 ### 4. Sorting
 - [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) (⭐⭐)
