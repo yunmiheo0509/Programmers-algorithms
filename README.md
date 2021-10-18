@@ -22,7 +22,7 @@ Programmers algorithms
 
 ### 4. Sorting
 - ~~[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)~~ (⭐⭐ 실패, 풀이봄)
-- [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) (⭐⭐)
+- ~~[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)~~ (⭐⭐ 소요시간: 1시간)
 
 ### 5. Brute-Force/Exhaustive Search
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) (⭐⭐)
