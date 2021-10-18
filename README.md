@@ -25,7 +25,7 @@ Programmers algorithms
 - ~~[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)~~ (⭐⭐ 소요시간: 1시간)
 
 ### 5. Brute-Force/Exhaustive Search
-- [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) (⭐⭐)
+- ~~[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)~~ (⭐⭐ 소요시간: 45분)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) (⭐⭐)
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) (⭐⭐)
 
